@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %} HBNB {%endblock %}
+{% block body %}
+{% if (n % 2 == 0) %}
+    <H1>Number: {{ n }} is even</H1>
+{% else %}
+    <H1>Number: {{ n }} is odd</H1>
+{% endif %}
+{% endblock %}

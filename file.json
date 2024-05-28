@@ -1,0 +1,151 @@
+{
+    "State.e2366f7a-03b3-4237-bfbf-239b19ead2bf": {
+        "name": "Arizona",
+        "created_at": "2023-10-22T15:01:14.996279",
+        "updated_at": "2023-10-22T18:01:14.996322",
+        "id": "e2366f7a-03b3-4237-bfbf-239b19ead2bf",
+        "__class__": "State"
+    },
+    "City.e6fee256-ee2a-4844-a727-bbd7699b335e": {
+        "state_id": "20143384-dfb2-4800-ae09-fe0a47e0177c",
+        "name": "Napa",
+        "created_at": "2023-10-22T15:01:14.996572",
+        "updated_at": "2023-10-22T18:01:14.996632",
+        "id": "e6fee256-ee2a-4844-a727-bbd7699b335e",
+        "__class__": "City"
+    },
+    "City.7f979e77-d76d-4682-8d34-e9012a59aa1b": {
+        "state_id": "e2366f7a-03b3-4237-bfbf-239b19ead2bf",
+        "name": "Page",
+        "created_at": "2023-10-22T15:01:14.997262",
+        "updated_at": "2023-10-22T18:01:14.997319",
+        "id": "7f979e77-d76d-4682-8d34-e9012a59aa1b",
+        "__class__": "City"
+    },
+    "State.8ede96d7-7cac-4c27-bf9e-c47ed4a8f2c5": {
+        "name": "California",
+        "created_at": "2023-10-22T19:26:03.258108",
+        "updated_at": "2023-10-22T22:26:03.258162",
+        "id": "8ede96d7-7cac-4c27-bf9e-c47ed4a8f2c5",
+        "__class__": "State"
+    },
+    "State.a48d1e5d-ad36-4001-85ac-8722e3e02ed1": {
+        "name": "Arizona",
+        "created_at": "2023-10-22T19:26:03.276904",
+        "updated_at": "2023-10-22T22:26:03.276965",
+        "id": "a48d1e5d-ad36-4001-85ac-8722e3e02ed1",
+        "__class__": "State"
+    },
+    "City.ac42bab6-0836-4f94-8262-ec9668e2b65b": {
+        "state_id": "8ede96d7-7cac-4c27-bf9e-c47ed4a8f2c5",
+        "name": "Napa",
+        "created_at": "2023-10-22T19:26:03.277769",
+        "updated_at": "2023-10-22T22:26:03.277859",
+        "id": "ac42bab6-0836-4f94-8262-ec9668e2b65b",
+        "__class__": "City"
+    },
+    "City.373aee4e-0c43-4481-aca1-5f39f6ef8923": {
+        "state_id": "8ede96d7-7cac-4c27-bf9e-c47ed4a8f2c5",
+        "name": "Sonoma",
+        "created_at": "2023-10-22T19:26:03.278315",
+        "updated_at": "2023-10-22T22:26:03.278400",
+        "id": "373aee4e-0c43-4481-aca1-5f39f6ef8923",
+        "__class__": "City"
+    },
+    "City.691bb5e8-bad5-4493-817f-bacf8def0f5d": {
+        "state_id": "a48d1e5d-ad36-4001-85ac-8722e3e02ed1",
+        "name": "Page",
+        "created_at": "2023-10-22T19:26:03.278849",
+        "updated_at": "2023-10-22T22:26:03.278914",
+        "id": "691bb5e8-bad5-4493-817f-bacf8def0f5d",
+        "__class__": "City"
+    },
+    "State.e5c874a2-ce92-498b-965a-7b0d310b5a56": {
+        "id": "e5c874a2-ce92-498b-965a-7b0d310b5a56",
+        "created_at": "2023-10-28T22:10:41.660906",
+        "updated_at": "2023-10-28T22:10:41.660909",
+        "name": "California is so cool",
+        "__class__": "State"
+    },
+    "State.c07bcbcb-68ac-4fb8-ae7f-d2f64e4ef96a": {
+        "name": "California",
+        "created_at": "2023-10-28T21:50:34.616662",
+        "updated_at": "2023-10-28T21:50:34.616667",
+        "id": "c07bcbcb-68ac-4fb8-ae7f-d2f64e4ef96a",
+        "__class__": "State"
+    },
+    "State.ea1265ee-4c9b-4a4d-8b0e-8fe08ef6b286": {
+        "name": "California",
+        "created_at": "2023-10-28T21:50:40.017918",
+        "updated_at": "2023-10-28T21:50:40.017922",
+        "id": "ea1265ee-4c9b-4a4d-8b0e-8fe08ef6b286",
+        "__class__": "State"
+    },
+    "State.cb7d2229-2d7c-4f10-acc8-1fbc521fe72e": {
+        "name": "California",
+        "created_at": "2023-10-28T22:21:54.209518",
+        "updated_at": "2023-10-28T22:21:54.209522",
+        "id": "cb7d2229-2d7c-4f10-acc8-1fbc521fe72e",
+        "__class__": "State"
+    },
+    "City.b14e60c1-a66d-4870-a396-84d7486cbc46": {
+        "name": "Alexandria",
+        "state_id": "cb7d2229-2d7c-4f10-acc8-1fbc521fe72e",
+        "created_at": "2023-10-29T14:49:32.151479",
+        "updated_at": "2023-10-29T14:49:32.151482",
+        "id": "b14e60c1-a66d-4870-a396-84d7486cbc46",
+        "__class__": "City"
+    },
+    "City.06bcf326-76bd-4fe5-860c-99a0553c8d96": {
+        "name": "Bossier City",
+        "state_id": "ea1265ee-4c9b-4a4d-8b0e-8fe08ef6b286",
+        "created_at": "2023-10-29T14:50:28.623370",
+        "updated_at": "2023-10-29T14:50:28.623373",
+        "id": "06bcf326-76bd-4fe5-860c-99a0553c8d96",
+        "__class__": "City"
+    },
+    "Amenity.4576ffd0-d3a9-425a-82f4-9bc9f3789c27": {
+        "id": "4576ffd0-d3a9-425a-82f4-9bc9f3789c27",
+        "created_at": "2023-10-29T17:03:45.267883",
+        "updated_at": "2023-10-29T17:03:45.267946",
+        "__class__": "Amenity"
+    },
+    "Amenity.0e82233e-e63f-4c66-ba14-97c7c3f58ff9": {
+        "id": "0e82233e-e63f-4c66-ba14-97c7c3f58ff9",
+        "created_at": "2023-10-29T17:03:56.196806",
+        "updated_at": "2023-10-29T17:03:56.196875",
+        "__class__": "Amenity"
+    },
+    "Amenity.2a4a7bc3-1675-47f4-887f-6f9e1f7abd98": {
+        "id": "2a4a7bc3-1675-47f4-887f-6f9e1f7abd98",
+        "created_at": "2023-10-29T17:03:56.923161",
+        "updated_at": "2023-10-29T17:03:56.923184",
+        "__class__": "Amenity"
+    },
+    "User.6f21a58c-0d9c-42ee-a5b6-f6d13638dcb6": {
+        "id": "6f21a58c-0d9c-42ee-a5b6-f6d13638dcb6",
+        "created_at": "2023-10-29T17:14:58.886703",
+        "updated_at": "2023-10-29T17:14:58.886862",
+        "__class__": "User"
+    },
+    "Place.2d5cb9b8-7ad3-4857-ab4f-da574e1ff694": {
+        "id": "2d5cb9b8-7ad3-4857-ab4f-da574e1ff694",
+        "created_at": "2023-10-29T17:15:13.841492",
+        "updated_at": "2023-10-29T17:15:13.841835",
+        "__class__": "Place"
+    },
+    "User.3f8310f4-00e1-4ff0-9bf8-ac2131e7f47f": {
+        "email": "test@test.com",
+        "password": "test222",
+        "created_at": "2023-10-29T15:59:17.150087",
+        "updated_at": "2023-10-29T15:59:17.150089",
+        "id": "3f8310f4-00e1-4ff0-9bf8-ac2131e7f47f",
+        "__class__": "User"
+    },
+    "Review.97e3a001-ce18-46b8-8a82-ab2404cb7030": {
+        "id": "97e3a001-ce18-46b8-8a82-ab2404cb7030",
+        "created_at": "2023-10-29T23:01:34.887688",
+        "updated_at": "2023-10-29T23:01:34.887717",
+        "__class__": "Review"
+    }
+}
